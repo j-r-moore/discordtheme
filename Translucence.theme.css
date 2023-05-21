@@ -15,8 +15,8 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/871256852359417859/1109623136326008932/Screenshot_2023-05-21_at_12.23.14_AM.jpg);
-	--app-blur: 0px;
+	--app-bg: url(https://media.discordapp.net/attachments/1084949794977493083/1109449312213160018/VRChat_2023-05-20_23-18-32.304_1920x1080.png?width=1202&height=676);
+	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
