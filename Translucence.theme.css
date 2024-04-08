@@ -8,17 +8,13 @@
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
  * @donate https://paypal.me/capnkitten
  * @invite jzJkA6Z
-*https://i.imgur.com/bgmVeyt.jpg 
-*https://media.discordapp.net/attachments/1084949794977493083/1109449312213160018/VRChat_2023-05-20_23-18-32.304_1920x1080.png?width=1202&height=676
-*https://media.discordapp.net/attachments/1084949794977493083/1109023729155055666/VRChat_2023-05-16_21-05-49.641_1920x1080.png?width=1202&height=676
-*https://media.discordapp.net/attachments/1084949794977493083/1106572837705228338/VRChat_2023-05-12_23-49-31.905_1920x1080.png?width=1202&height=676
  */
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);  
-	--app-blur: 6px; 
+	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+	--app-blur: 6px;
 	--app-margin: 0px;
 	--app-radius: 8px; /*	-	*/
 	
